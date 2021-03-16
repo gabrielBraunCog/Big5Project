@@ -4,3 +4,5 @@ This is the reposiory for the big 5 project. All the workflow should be in the j
 
 For the original data regarding gender inequality- http://hdr.undp.org/en/content/gender-inequality-index-gii
 For the original data regarding gender bias- http://hdr.undp.org/en/gsni
+
+Gabriel Braun- 318446036
